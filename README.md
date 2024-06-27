@@ -5,8 +5,8 @@ Välkomna till "Äventyr med Kodbrytare"! I denna spännande övning kommer ni a
 ## Uppdraget
 
 **Skeppets Byggnadsplats**:
-Skapa ett nytt projekt på Github och länka ett repository som er gemensamma skuta.
-Bjud in era kamrater till projektet och repot, och glöm inte att skicka en inbjudan till era kaptener (majazocom och santosnr6).
+* Skapa ett nytt projekt på Github och länka ett repository som er gemensamma skuta.
+* Bjud in era kamrater till projektet och repot, och glöm inte att skicka en inbjudan till era kaptener (majazocom och santosnr6).
 
 **Skattkartan**:
 Skapa minst två issues var, som är era små skattjakter. De behöver inte vara stora uppgifter, utan kan vara saker som:
@@ -15,11 +15,11 @@ Skapa minst två issues var, som är era små skattjakter. De behöver inte vara
 * "Lägg till en footer"
 
 **Förbered Äventyrarna**:
-Varje äventyrare (utvecklare) skapar en egen branch för den issue de får tilldelad. En person per issue, så ni inte trampar på varandras tår.
+* Varje äventyrare (utvecklare) skapar en egen branch för den issue de får tilldelad. En person per issue, så ni inte trampar på varandras tår.
    
 **Kodbrytning och Skattjakt**:
-Gör dina ändringar i din branch och testa sedan att göra en pull request.
-En av dina kamrater blir utvald till att agera reviewer och inspektera din kod. När reviewern har godkänt, kan din branch mergeas in i huvudgrenen (main).
+* Gör dina ändringar i din branch och testa sedan att göra en pull request.
+* En av dina kamrater blir utvald till att agera reviewer och inspektera din kod. När reviewern har godkänt, kan din branch mergeas in i huvudgrenen (main).
 
 ## Mål
 
